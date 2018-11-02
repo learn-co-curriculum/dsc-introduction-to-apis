@@ -12,8 +12,6 @@ You will be able to :
 * Understand and explain what an API is
 * Understand and explain why companies build APIs
 
-
-
 ## Application Programming Interface (API)
 
 > API stands for **Application Programming Interface**. 
@@ -42,7 +40,6 @@ Every time you make a request to a server running an API , the request (or the c
 
 
 ### Let's see a real example
-\
 
 Pokemon Go has been one of the most popular smartphone games, which requires a large ecosystem with complete information of routes and roads across the globe. Developers of the Pokemon could not have possibly coded such a complete world map. Instead, they used Google maps API and built their app on top of it. Following image shows the complete architecture that allows players of pokemon go to play a game which in turns responds by making geographical information related API calls to google maps.  
 <img src="api4.png" width=600>
