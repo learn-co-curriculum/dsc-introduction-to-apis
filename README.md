@@ -1,9 +1,9 @@
 
-# Introduction to APIs  (Application Programming Interfaces)
+# Introduction to APIs
 
 ## Introduction 
 
-APIs are an important aspect of modern living, in both professional as and personal contexts. From social media to business communications, planning a holiday to ordering products/services on-line, APIs are being used almost everywhere. However, users of APIs generally have a rather vague or incorrect idea about what this term means.
+APIs (Application Programming Interfaces) are an important aspect of modern living, in both professional as and personal contexts. From social media to business communications, planning a holiday to ordering products/services on-line, APIs are being used almost everywhere. However, users of APIs generally have a rather vague or incorrect idea about what this term means.
 
 In this lesson, we provide an introduction to what an API is and how it works. We shall look at some types of APIs with real world examples of how businesses are using it to connect to their customers.
 
