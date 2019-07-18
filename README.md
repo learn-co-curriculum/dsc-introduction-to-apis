@@ -26,7 +26,7 @@ APIs are a way of standardizing interactions with software. From the provider's 
 ### An Example
 
 Pokemon Go has been one of the most popular smartphone games, which requires a large ecosystem with complete information of routes and roads across the globe. Developers of the Pokemon could not have possibly coded such a complete world map. Instead, they used Google maps API and built their app on top of it. Following image shows the complete architecture that allows players of pokemon go to play a game which in turns responds by making geographical information related API calls to google maps.  
-<img src="images/new_api4.png" width=750>
+<img src="images/new_api4.png" width="750">
 
 ### What is an API made of ?
 
