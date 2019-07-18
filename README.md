@@ -18,7 +18,7 @@ An API is a communication protocol between 2 software systems. It describes the 
 
 APIs are a way of allowing 2 applications to interact with each other. This is an incredibly common task in modern web-based programs. For instance, if you've ever connected your facebook profile to another service such as Spotify or Instagram, this is done through APIs. An API represents a way for 2 pieces of software to interact with one another. Under the hood, the actual request and response is done as a **_HTTP Request_**. Then following diagram shows the **_HTTP Request/Response Cycle_**:
 
-<img src="images/client-server-illustration.gif">
+<img src="images/new_client-server-illustration.png" width="600">
 
 APIs are a way of standardizing interactions with software. From the provider's standpoint, it makes sure that everyone will interact with their software in a way that they are expecting. From the user's standpoint, it provides easy instructions and methods for working with 3rd party software, which opens up a ton of useful benefits by allowing us to get data from other sources, or add functionality by incorporating services from 3rd party software!
 
@@ -26,7 +26,7 @@ APIs are a way of standardizing interactions with software. From the provider's 
 ### An Example
 
 Pokemon Go has been one of the most popular smartphone games, which requires a large ecosystem with complete information of routes and roads across the globe. Developers of the Pokemon could not have possibly coded such a complete world map. Instead, they used Google maps API and built their app on top of it. Following image shows the complete architecture that allows players of pokemon go to play a game which in turns responds by making geographical information related API calls to google maps.  
-<img src="images/api4.png" width=600>
+<img src="images/new_api4.png" width=750>
 
 ### What is an API made of ?
 
