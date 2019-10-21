@@ -52,4 +52,4 @@ We'll look more deeply at how to use these components in the upcoming lessons fo
 
 ## Summary
 
-In this lesson, we looked at an introduction to APIs, their basic understanding and main types of APIs.  In the following lessons, we dig into this in a bit more detail and see how to make API calls in python. 
+In this lesson, we looked at an introduction to APIs, their basic understanding and main types of APIs.  In the following lessons, we dig into this in a bit more detail and see how to make API calls in Python. 
