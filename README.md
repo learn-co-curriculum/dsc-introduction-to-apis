@@ -7,8 +7,10 @@
 
 ## Objectives
 You will be able to : 
-* Understand and explain what an API is
-* Understand and explain why companies build APIs
+
+* Explain what an API is
+* List use cases for different types of APIs
+* Summarize why companies build APIs
 
 ## Application Programming Interface (API)
 
